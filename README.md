@@ -1,4 +1,4 @@
 # myWebsites
 Simple Websites <br><br>
-## 1)	Online Shopping Website &emsp;&emsp; <a href>http://onli9shop.comxa.com</a> <br>
+## 1)	Online Shopping Website &emsp; <a href>http://onli9shop.comxa.com</a> <br>
 Simple PHP & MySQL based website just to show how an Online Shopping System works.
